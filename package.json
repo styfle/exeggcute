@@ -1,6 +1,6 @@
 {
   "name": "exeggcute",
-  "version": "0.1.0",
+  "version": "1.0.0",
   "description": "A node.js module to make executing shell cmds a breeze!",
   "main": "src/index.js",
   "scripts": {
