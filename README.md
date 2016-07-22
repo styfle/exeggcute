@@ -2,6 +2,9 @@
 
 A node.js module to make executing shell cmds a breeze!
 
+[![Version](https://img.shields.io/npm/v/exeggcute.svg)](https://www.npmjs.com/package/exeggcute)
+[![Downloads](https://img.shields.io/npm/dt/exeggcute.svg)](https://www.npmjs.com/package/exeggcute)
+
 ![img](http://cdn.bulbagarden.net/upload/a/af/102Exeggcute.png)
 
 
