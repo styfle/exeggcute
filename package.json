@@ -5,7 +5,7 @@
   "main": "src/index.js",
   "scripts": {
     "build": "tsc",
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "tape tests/*.js"
   },
   "repository": {
     "type": "git",
@@ -24,6 +24,7 @@
   },
   "homepage": "https://github.com/styfle/exeggcute#readme",
   "devDependencies": {
+    "tape": "^4.6.0",
     "typescript": "^1.8.10"
   }
 }
